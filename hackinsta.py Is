@@ -126,3 +126,4 @@ with codecs.open(args.passwords_file, 'r', 'utf-8') as file:
 
 bruteforce = Instabrute(args.username, passwords)
 bruteforce.login()
+Is
